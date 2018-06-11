@@ -1,0 +1,7 @@
+[package]
+name = "dunux"
+version = "0.1.0"
+authors = ["Duncan Dean <duncangleeddean@gmail.com>"]
+
+[package.metadata.bootimage]
+default-target = "x86_64-dunux.json"
